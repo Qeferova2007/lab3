@@ -1,4 +1,4 @@
-# lab3
+# lab3-10
 import math 
 eps=0.001
 x=0.9
